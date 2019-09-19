@@ -1,5 +1,8 @@
 # FisherInformation
 
+THIS REPOSITORY IS GETTING UPDATED TO SHARE ALSO CODE USED TO GENERATE https://www.biorxiv.org/content/10.1101/774919v1
+We are working to organize the repository while preparing for peer-review, check this respository later or contact me for feedback on code availability.
+
 # Numerical evaluation of Fisher Information Matrix
 
 FPT files are related to our publication (MATLAB, codes working since Matlab 2013, last tested with Matlab 2018a)
