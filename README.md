@@ -1,7 +1,12 @@
-# FisherInformation
+# FisherInformation and seFRET
 
 THIS REPOSITORY IS GETTING UPDATED TO SHARE ALSO CODE USED TO GENERATE https://www.biorxiv.org/content/10.1101/774919v1
-We are working to organize the repository while preparing for peer-review, check this respository later or contact me for feedback on code availability.
+The code related to this pre-print, but currently prepared for peer-riview is in the zipped archive 
+seFRET_FLIM_FisherInformation.zip
+Together with it, we are redistributing also code downloaded from:
+https://figshare.com/articles/Cram_r-Rao_lower_bond_CRLB_on_lifetime_estimates/8332733
+linked to the following publication:
+D. Bouchet, V. Krachmalnicoff, and I. Izeddin, "Cramér-Rao analysis of lifetime estimations in time-resolved fluorescence microscopy," Opt. Express 27, 21239-21252 (2019) 
 
 # Numerical evaluation of Fisher Information Matrix
 
